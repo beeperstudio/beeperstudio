@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+html{
+    font-size: 10px;
+}
+#container {
+    width:100%;
+}
+#haiku {
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    width:500px;
+    margin-top:10%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(121, 140, 158);
+}
